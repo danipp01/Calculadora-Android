@@ -2,7 +2,7 @@
 
 Esta calculadora será usada para realizar las operaciones ordinarias: suma, resta, multiplicación y división.
 La estructura de la aplicación es la siguiente: 
-
+https://github.com/danipp01/Calculadora-Android/blob/main/fotos/forma%20aplicaci%C3%B3n.png
 El uso normal de esta calculadora será el siguiente:
 1. Pulsa los botón del primer número que quiera introducir.
 2. Pulse el botón de la operación a realizar.
