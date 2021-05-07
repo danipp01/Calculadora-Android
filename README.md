@@ -23,3 +23,7 @@ El uso normal de esta calculadora será el siguiente:
 Le he cambiado el icono a la aplicación para que aparezca una calculadora de verdad.
 
 <h1> ❗ Error </h1>
+
+![problema](https://user-images.githubusercontent.com/71631573/117471390-1b9a1e00-af58-11eb-8500-5a19bee373aa.png)
+
+Al iniciar la aplicación me da este fallo y se me cierra, por lo que no puedo enseñar imagenes de como funciona la aplicación.
