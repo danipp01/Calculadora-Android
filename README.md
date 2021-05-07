@@ -14,6 +14,6 @@ El uso normal de esta calculadora será el siguiente:
 
 <h1> 📱 Estructura de la calculadora </h1>
 
-https://raw.githubusercontent.com/danipp01/Calculadora-Android/blob/main/fotos/forma%20aplicación.png
+![Estructura de la aplicación](fotos/forma aplicacion.png)
 
 
