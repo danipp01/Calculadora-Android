@@ -3,6 +3,8 @@
 Esta calculadora será usada para realizar las operaciones ordinarias: suma, resta, multiplicación y división.
 La estructura de la aplicación es la siguiente: 
 
+<h1> 📱 Estructura de la calculadora </h1>
+
 https://raw.githubusercontent.com/danipp01/Calculadora-Android/blob/main/fotos/forma%20aplicación.png
 
 <h1>📝 Normas </h1>
