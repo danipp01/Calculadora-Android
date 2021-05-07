@@ -14,6 +14,6 @@ El uso normal de esta calculadora será el siguiente:
 
 <h1> 📱 Estructura de la calculadora </h1>
 
-![Estructura de la aplicación](fotos/forma aplicacion.png)
+![forma aplicación](https://user-images.githubusercontent.com/71631573/117470775-7717dc00-af57-11eb-934a-6272fae48923.png)
 
 
