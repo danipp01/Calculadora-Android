@@ -5,6 +5,8 @@ La estructura de la aplicación es la siguiente:
 
 https://raw.githubusercontent.com/danipp01/Calculadora-Android/blob/main/fotos/forma%20aplicación.png
 
+<h1>📝 Normas </h1>
+
 El uso normal de esta calculadora será el siguiente:
 1. Pulsa los botón del primer número que quiera introducir.
 2. Pulse el botón de la operación a realizar.
