@@ -16,4 +16,6 @@ El uso normal de esta calculadora será el siguiente:
 
 ![forma aplicación](https://user-images.githubusercontent.com/71631573/117470775-7717dc00-af57-11eb-934a-6272fae48923.png)
 
+<h1> Icono de la aplicación </h1>
+
 
