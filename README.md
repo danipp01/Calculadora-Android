@@ -3,7 +3,7 @@
 Esta calculadora será usada para realizar las operaciones ordinarias: suma, resta, multiplicación y división.
 La estructura de la aplicación es la siguiente: 
 
-<h1>📝 Normas </h1>
+<h1> 📝 Normas </h1>
 
 El uso normal de esta calculadora será el siguiente:
 1. Pulsa los botón del primer número que quiera introducir.
@@ -16,6 +16,9 @@ El uso normal de esta calculadora será el siguiente:
 
 ![forma aplicación](https://user-images.githubusercontent.com/71631573/117470775-7717dc00-af57-11eb-934a-6272fae48923.png)
 
-<h1> Icono de la aplicación </h1>
+<h1> 📢 Icono de la aplicación </h1>
 
+![NombreAplicacion](https://user-images.githubusercontent.com/71631573/117471113-ce1db100-af57-11eb-9921-a5ddef43f174.png)
+
+Le he cambiado el icono a la aplicación para que aparezca una calculadora de verdad.+
 
