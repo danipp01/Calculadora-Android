@@ -20,5 +20,6 @@ El uso normal de esta calculadora será el siguiente:
 
 ![NombreAplicacion](https://user-images.githubusercontent.com/71631573/117471113-ce1db100-af57-11eb-9921-a5ddef43f174.png)
 
-Le he cambiado el icono a la aplicación para que aparezca una calculadora de verdad.+
+Le he cambiado el icono a la aplicación para que aparezca una calculadora de verdad.
 
+<h1> ❗ Error </h1>
